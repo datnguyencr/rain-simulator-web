@@ -1,0 +1,28 @@
+{
+  "app_name": "Rain Simulator",
+  "import_from_gallery": "Importar da galeria",
+  "import_from_camera": "Importar da câmera",
+  "select": "Selecionar",
+  "edit": "Editar",
+  "delete": "Excluir",
+  "cricket_sound": "Som de grilo",
+  "owl_sound": "Som de coruja",
+  "forest_sound": "Som da floresta",
+  "ok": "OK"
+}
+"save": "Salvar",
+"custom": "Personalizado",
+"cancel": "Cancelar",
+"unlock_capacity": "Desbloquear capacidade",
+"dialog_add_background_message": "Você atingiu a capacidade máxima!",
+"bottom_right": "Inferior direito",
+"bottom_left": "Inferior esquerdo",
+"top_right": "Superior direito",
+"top_left": "Superior esquerdo",
+"clock": "Relógio",
+"colorful_rain": "Chuva colorida",
+"rain_bubble": "Gotas de chuva",
+"auto_thunder": "Trovão automático",
+"mute_sounds": "Silenciar sons",
+"rain_changes_over_time": "A chuva muda com o tempo"
+}
